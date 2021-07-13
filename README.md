@@ -1,1 +1,1 @@
-# Basicly Todo Application with React
+# Basic level Todo Application with React
